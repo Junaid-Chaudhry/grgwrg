@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Turn on two lights
+A single OR Gate.
 
 ## How to test
 
-Click the switch
+A single LED can be connected to the output.
 ## External hardware
 
-Or Switch
+A single LED.
